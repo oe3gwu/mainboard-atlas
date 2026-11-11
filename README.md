@@ -1,1 +1,1 @@
-# maiboard-atlas
+# mainboard-atlas
